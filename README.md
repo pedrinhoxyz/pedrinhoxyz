@@ -1,4 +1,6 @@
-## Hi there 👋
+# Welcome, my name is pedrinho!
+## Introduction
+I’m working on Discord bots and making some Minecraft plugins.
 
 <!--
 **pedrinhoxyz/pedrinhoxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
