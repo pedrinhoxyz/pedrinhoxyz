@@ -1,6 +1,11 @@
 # Welcome, my name is pedrinho!
 ## Introduction
-I’m working on Discord bots and making some Minecraft plugins.
+I’m currently working on Discord bots and making some Minecraft plugins.
+I’m Java Developer for about 5 years and this year I meet great programming language which is Kotlin.
+I have also a lot of experience in server and database management.
+I love coding so much :)
+## Experience
+
 
 <!--
 **pedrinhoxyz/pedrinhoxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
