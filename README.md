@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="center">Hello I’m known as pedrinho!<br><br>I’m currently working on Discord bots and making some Minecraft plugins.<br><br>I’m coding in Java for about 5 years and this year I met a great programming language, which is Kotlin.</h6>
+<h6 align="center">Hello I’m known as pedrinho!<br><br>I’m currently working on Discord bots and making Android Apps plugins.<br><br>I’m coding in Java for about 5 years and this year I met a great programming language, which is Kotlin.</h6>
 
 ###
 
@@ -66,7 +66,7 @@
 ###
 
 <div align="center">
-  <a href="https://discord.com/users/891697282506956830" target="_blank">
+  <a href="pedro (wydajnosc)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="82" height="70" alt="discord logo"  />
   </a>
 </div>
